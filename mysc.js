@@ -1,6 +1,3 @@
-var text = document.getElementById ('MyTextBox') ;
-
-
 function ADD ()
 {
     'use strict' ;
